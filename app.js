@@ -1,0 +1,1 @@
+let practica = "ejercicio en pg"
